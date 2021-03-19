@@ -22,7 +22,8 @@ def run():
         user_answer = prompt.string('Your answer: ')
 
         if current_answer != user_answer:
-            print("'{}' is wrong answer ;(. Correct answer was '{}'.".format(user_answer, current_answer))
+            template = "'{}' is wrong answer ;(. Correct answer was '{}'."
+            print(template.format(user_answer, current_answer))
             print("Let's try again, Bill!")
             return
 
