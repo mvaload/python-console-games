@@ -17,3 +17,4 @@
 ### Example of use
 * [Even asciinema](https://asciinema.org/a/9iBXacYdPCvl8OiK0HkxnmtWW)
 * [Calc asciinema](https://asciinema.org/a/0zF91iQSGAeJHSKUU1fr7tnmZ)
+* [Gcd asciinema](https://asciinema.org/a/xaSnwsy46PLvt9UDpjpkxvFmE)
