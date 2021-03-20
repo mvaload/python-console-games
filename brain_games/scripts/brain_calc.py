@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from brain_games.src.games.even import DESCRIPTION, run_game
+from brain_games.src.games.calc import DESCRIPTION, run_game
 from brain_games.src import engine
 
 
