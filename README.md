@@ -15,8 +15,8 @@
 * Definition of a prime number.    
 
 ### Example of use
-* [Even asciinema](https://asciinema.org/a/9iBXacYdPCvl8OiK0HkxnmtWW)
-* [Calc asciinema](https://asciinema.org/a/0zF91iQSGAeJHSKUU1fr7tnmZ)
-* [Gcd asciinema](https://asciinema.org/a/xaSnwsy46PLvt9UDpjpkxvFmE)
-* [Progression asciinema](https://asciinema.org/a/nddT1qbbwfqhFGBICU1tRl78r)
-* [Prime asciinema](https://asciinema.org/a/OaZ7MkyY6rLtHQCqJP6Q3mBnO)
+* [Even asciinema](https://asciinema.org/a/gdTpeJiRVzKTR7sanCIEZI8Ru)
+* [Calc asciinema](https://asciinema.org/a/aUvfFqYCueRadGMxWZqpKdW7E)
+* [Gcd asciinema](https://asciinema.org/a/DBmGbL7WWCHQiRjssRfaitvOg)
+* [Progression asciinema](https://asciinema.org/a/kF9MrRHNcvziFfw6ggAlJ4YBc)
+* [Prime asciinema](https://asciinema.org/a/EFrVcOBpdPAW9PIs7H3oDGMpW)
