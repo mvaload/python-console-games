@@ -16,7 +16,7 @@ def run(game_data, description):
         if data['current_answer'] != user_answer:
             template = "'{}' is wrong answer ;(. Correct answer was '{}'."
             print(template.format(user_answer, data['current_answer']))
-            print("Let's try again, Bill!")
+            print("Let's try again, {}!".format(user_name))
             return
 
         print('Correct!')
