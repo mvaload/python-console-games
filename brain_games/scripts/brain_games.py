@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from brain_games.src import cli
+from brain_games import cli
 
 
 def main():
