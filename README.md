@@ -7,10 +7,10 @@
 Simple math console games.
 
 ### Setup
-<make install>
+```make install```
 
 ### Check lint
-<make lint>
+```make lint```
 
 ### Description
 Brain games is a set of five console games built on the principle of popular mobile brain-boosting apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. Wrong answers end the game and offer to play it again.    
@@ -23,8 +23,13 @@ Brain games is a set of five console games built on the principle of popular mob
 * Definition of a prime number.    
 
 ### Example of use
+**Demo even:**
 [![Even asciinema](https://asciinema.org/a/gdTpeJiRVzKTR7sanCIEZI8Ru.png)](https://asciinema.org/a/gdTpeJiRVzKTR7sanCIEZI8Ru)
+**Demo calc:**
 [![Calc asciinema](https://asciinema.org/a/aUvfFqYCueRadGMxWZqpKdW7E.png)](https://asciinema.org/a/aUvfFqYCueRadGMxWZqpKdW7E)
+**Demo gcd:**
 [![Gcd asciinema](https://asciinema.org/a/DBmGbL7WWCHQiRjssRfaitvOg.png)](https://asciinema.org/a/DBmGbL7WWCHQiRjssRfaitvOg)
+**Demo progression:**
 [![Progression asciinema](https://asciinema.org/a/kF9MrRHNcvziFfw6ggAlJ4YBc.png)](https://asciinema.org/a/kF9MrRHNcvziFfw6ggAlJ4YBc)
+**Demo prime:**
 [![Prime asciinema](https://asciinema.org/a/EFrVcOBpdPAW9PIs7H3oDGMpW.png)](https://asciinema.org/a/EFrVcOBpdPAW9PIs7H3oDGMpW)
